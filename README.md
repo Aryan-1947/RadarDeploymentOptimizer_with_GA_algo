@@ -10,7 +10,7 @@ This project implements a **Genetic Algorithm (GA)** to optimize the deployment 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MuskanBajetha/GeneticAlgo_RadarDeploymentOptimizer.git
+   git clone https://github.com/Aryan-1947/RadarDeploymentOptimizer_with_GA_algo.git
    cd RadarDeploymentOptimizer_with_GA_algo
    ```
 2. Install the required dependencies:
@@ -24,6 +24,7 @@ This project implements a **Genetic Algorithm (GA)** to optimize the deployment 
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements or bug fixes.
+
 
 
 
